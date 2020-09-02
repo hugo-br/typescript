@@ -1,2 +1,2 @@
 # typescript
-Typescript aide-mémoire, example simple pour se rappeler de la base
+Typescript aide-mémoire, simple exemple to help remember the basis
